@@ -1,2 +1,2 @@
-# sample-repo
-this is a sample repository
+Hello simpli learn.
+this ia devops.
